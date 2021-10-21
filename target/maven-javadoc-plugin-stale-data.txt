@@ -1,0 +1,41 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/lenovo/Documents/NetBeansProjects/POOP6/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/lenovo/Documents/NetBeansProjects/POOP6/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'POOP6 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/lenovo/Documents/NetBeansProjects/POOP6/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'POOP6 1.0-SNAPSHOT API'
+com.mycompany.poop6
+'C:/Users/lenovo/Documents/NetBeansProjects/POOP6/src/main/java/com/mycompany/poop6/Main.java'
+C:\Users\lenovo\Documents\NetBeansProjects\POOP6\src\main\java = 1634820825583
+C:\Users\lenovo\Documents\NetBeansProjects\POOP6\target\site\apidocs\allclasses-frame.html = 1634821863994
+C:\Users\lenovo\Documents\NetBeansProjects\POOP6\target\site\apidocs\allclasses-noframe.html = 1634821864000
+C:\Users\lenovo\Documents\NetBeansProjects\POOP6\target\site\apidocs\constant-values.html = 1634821863920
+C:\Users\lenovo\Documents\NetBeansProjects\POOP6\target\site\apidocs\deprecated-list.html = 1634821863989
+C:\Users\lenovo\Documents\NetBeansProjects\POOP6\target\site\apidocs\help-doc.html = 1634821864027
+C:\Users\lenovo\Documents\NetBeansProjects\POOP6\target\site\apidocs\index-all.html = 1634821863978
+C:\Users\lenovo\Documents\NetBeansProjects\POOP6\target\site\apidocs\index.html = 1634821864014
+C:\Users\lenovo\Documents\NetBeansProjects\POOP6\target\site\apidocs\overview-tree.html = 1634821863967
+C:\Users\lenovo\Documents\NetBeansProjects\POOP6\target\site\apidocs\package-list = 1634821863750
+C:\Users\lenovo\Documents\NetBeansProjects\POOP6\target\site\apidocs\script.js = 1634821864044
+C:\Users\lenovo\Documents\NetBeansProjects\POOP6\target\site\apidocs\stylesheet.css = 1634821864041
